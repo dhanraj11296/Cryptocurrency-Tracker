@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.appContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  min-height: 100vh;
+}
+.errorMessage {
+  text-align: center;
+  color: #00e7ff;
+}

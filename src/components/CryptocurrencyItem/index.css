@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.cryptocurrencyItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logoAndTitleContainer {
+  display: flex;
+  align-items: center;
+}
+.currencyLogo {
+  width: 15px;
+  height: 15px;
+}
+.currencyName {
+  color: white;
+}
+.usdAndEuroValuesContainer {
+  display: flex;
+  align-items: center;
+}
+.currencyValue {
+  text-align: right;
+  color: white;
+}
